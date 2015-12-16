@@ -23,7 +23,7 @@
     "builder": "~2.1.4",
     "builder-victory-component": "~0.0.5",
     "d3-scale": "^0.2.0",
-    "victory-animation": "^0.0.12",
+    "victory-animation": "git+https://github.com/formidablelabs/victory-animation#a8db477",
     "victory-label": "^0.1.6",
     "victory-util": "^2.0.2"
   },
